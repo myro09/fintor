@@ -1,5 +1,5 @@
-// FinTor - The AI Financial Mentor
-// A simple finance tracking and learning app (Streamlit demo version)
+#FinTor - The AI Financial Mentor
+#A simple finance tracking and learning app (Streamlit demo version)
 
 import streamlit as st
 import pandas as pd
